@@ -45,31 +45,6 @@ The CNN learns important visual features such as:
 
 These features help the model distinguish between cats and dogs.
 
----
-
-##  Project Workflow
-
-```text
-Dataset
-   ↓
-Image Preprocessing
-   ↓
-Image Resizing
-   ↓
-CNN Model
-   ↓
-Model Training
-   ↓
-Model Evaluation
-   ↓
-Save Trained Model
-   ↓
-Streamlit Application
-   ↓
-Upload Image
-   ↓
-Cat / Dog Prediction
-
 -----
 
 ## Technologies Used
